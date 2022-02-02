@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Checkout my portfolio at [mercandalli.com](http://mercandalli.com).
 - [CTO principles](https://gist.github.com/Mercandj/de3cc178556dfd3a341c2646b109d221)
