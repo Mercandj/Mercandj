@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Checkout my portfolio at [mercandalli.com](http://mercandalli.com). Main `gist`:
+Checkout my portfolio at [mercandalli.com](http://mercandalli.com).
 - [CTO principles](https://gist.github.com/Mercandj/de3cc178556dfd3a341c2646b109d221)
 - [Android developer principles](https://gist.github.com/Mercandj/423ca32b5b99c03d5819492f4efd1bdc)
 - [Yet another MVP pattern multi-platform](https://gist.github.com/Mercandj/4b96e5bdd8a930eec7793beb4d8dacc2)
