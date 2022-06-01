@@ -1,4 +1,4 @@
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello there ![ezgif-4-dd6b6bed21](https://user-images.githubusercontent.com/3717316/171508638-f956bfaf-8272-43f3-802c-b7f67e99d34b.gif)
 
 - **Portfolio**: [mercandalli.com](http://mercandalli.com)
 - **Videos**: [Android leads](https://www.youtube.com/watch?v=7HPfx6i-bvA) | [Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM)
