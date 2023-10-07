@@ -1,4 +1,4 @@
-## Hello there ![ezgif-4-dd6b6bed21](https://user-images.githubusercontent.com/3717316/171508638-f956bfaf-8272-43f3-802c-b7f67e99d34b.gif)
+## Hello there!
 
 - **Portfolio**: [mercandalli.com](http://mercandalli.com)
 - **Videos**: [My talks](https://mercandj.github.io/presentation/) | [Android leads](https://www.youtube.com/watch?v=7HPfx6i-bvA) | [Uncle Bob](https://www.youtube.com/watch?v=7EmboKQH8lM)
